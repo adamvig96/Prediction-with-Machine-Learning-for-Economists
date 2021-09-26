@@ -1,0 +1,1 @@
+Download cps-earnings dataset to this folder from here: https://osf.io/g8p9j/
