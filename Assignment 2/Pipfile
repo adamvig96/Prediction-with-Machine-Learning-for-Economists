@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+sklearn = "*"
+pandas = "*"
+numpy = "*"
+notebook = "*"
+mizani = "*"
+patsy = "*"
+matplotlib = "*"
+plotnine = "*"
+skranger = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
