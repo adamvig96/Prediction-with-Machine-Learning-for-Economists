@@ -17,7 +17,6 @@ geopy = "*"
 xgboost = "*"
 tqdm = "*"
 ipywidgets = "*"
-black = "*"
 scikit-learn = "==1.0"
 seaborn = "*"
 
